@@ -1,0 +1,40 @@
+# Build klasörleri
+bin/
+obj/
+out/
+
+# Kullanıcıya özel dosyalar
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE klasörleri
+.vscode/
+.idea/
+
+# Derleme çıktıları
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# Paketler
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Publish çıktıları
+publish/
+dist/
+
+# Diğer
+*.dbmdl
+*.bak
+*.tmp
+*.temp
+*.swp
